@@ -2,7 +2,7 @@
 A meshing tool to refine the PI mesh for FESOM2 simulations, provided by the Alfred-Wegener-Institute. The mesh is obtainable:
 https://gitlab.awi.de/fesom/
 
-The meshing tool is written in Pyhton and is based on the packages:
+The meshing tool is written in Python and is based on the packages:
   numpy
   dataclasses 
   matplotlib
